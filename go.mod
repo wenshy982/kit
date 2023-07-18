@@ -1,4 +1,4 @@
-module kit
+module github.com/wenshy982/kit
 
 go 1.20
 

@@ -6,7 +6,7 @@ import (
 
 	"github.com/redis/go-redis/v9"
 
-	"kit/tools/jsonx"
+	"github.com/wenshy982/kit/tools/jsonx"
 )
 
 // Proxy 调用方定义的接口(只需要定义使用到的方法)
